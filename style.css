@@ -1,0 +1,43 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(192, 38, 38);
+}
+
+.container{
+    width: 440px;
+    margin-left: 33%;
+    background-color: #fff;
+    margin-top: 5px;
+    padding: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 200px;
+}
+
+.head{
+    text-align: center;
+    padding: 11px;
+    font-size: 30px;
+}
+
+.quiz{
+    margin-left: 11px;
+}
+
+.btn{
+text-align: center;
+padding: 11px;
+}
+
+button{
+    width: 140px;
+    height: 40px;
+    background-color: rgb(132, 20, 20);
+    color: white;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+}
